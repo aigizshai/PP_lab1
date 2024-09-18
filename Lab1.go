@@ -11,13 +11,13 @@ func main() {
 	TimeNow := time.Now()
 	fmt.Println("Задание №1")
 	fmt.Println("Текущая дата и время: ", TimeNow)
-
+    
 	//Задание 2
 	fmt.Println("Задание 2")
-	var a = 5
-	var b = 5.54
-	var c = "Строка"
-	var d = true
+	a := 5
+	b := 5.54
+	c := "Строка"
+	d := true
 	fmt.Println("a=", a)
 	fmt.Println("b=", b)
 	fmt.Println("c=", c)
